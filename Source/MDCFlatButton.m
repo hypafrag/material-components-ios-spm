@@ -14,7 +14,7 @@
 
 #import "MDCFlatButton.h"
 
-#import "private/MDCButton+Subclassing.h"
+#import "MDCButton+Subclassing.h"
 #import "MDCButton.h"
 #import "MaterialShadowElevations.h"
 

@@ -14,8 +14,8 @@
 
 #import "MDCFloatingButton.h"
 
-#import "private/MDCFloatingButtonModeAnimator.h"
-#import "private/MDCFloatingButtonModeAnimatorDelegate.h"
+#import "MDCFloatingButtonModeAnimator.h"
+#import "MDCFloatingButtonModeAnimatorDelegate.h"
 #import "MDCButton.h"
 #import "MaterialShadowElevations.h"
 
