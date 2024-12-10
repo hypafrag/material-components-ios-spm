@@ -2,19 +2,19 @@
 import PackageDescription
 
 let package = Package(
-    name: "MaterialComponents",
+    name: "MaterialComponentsSPM",
     platforms: [
         .iOS(.v11)
     ],
     products: [
         .library(
-            name: "MaterialComponents",
-            targets: ["MaterialComponents"])
+            name: "MaterialComponentsSPM",
+            targets: ["MaterialComponentsSPM"])
     ],
     dependencies: [],
     targets: [
         .target(
-            name: "MaterialComponents",
+            name: "MaterialComponentsSPM",
             dependencies: [],
             path: "Source",
             publicHeadersPath: "include",
