@@ -16,8 +16,8 @@
 
 #import <CoreGraphics/CoreGraphics.h>
 
-#import "private/MDCInkLayer.h"
-#import "private/MDCLegacyInkLayer.h"
+#import "MDCInkLayer.h"
+#import "MDCLegacyInkLayer.h"
 #import "MDCInkViewDelegate.h"
 #import "MDCInkLayerDelegate.h"
 #import "MDCLegacyInkLayerDelegate.h"
